@@ -1,7 +1,7 @@
 # Aluno: Ian Alves Sousa
 # DB1 Start - Tipos não primitivos
-# Exercício 6 - Escreva um programa que adicione uma chave (key) a um dicionário. Exemplo dicionário(Dict): {0: 10, 1: 20}
-# Resultado esperado: {0: 10, 1: 20, 2: 30} )
+# Exercício 7 - Escreva um programa que adicione uma chave (key) a um dicionário. Exemplo dicionário(Dict): {0: 10, 1: 20}
+# Resultado esperado: {0: 10, 1: 20, 2: 30}
 # Sendo a ideia do exercício fixar o aprendizado sobre adicionar elementos em um dicionário, a lógica usada foi criar um dicionário do tamanho que a pessoa quer e digitar 0 quando quiser finaliza-la. Para facilitar, apenas números inteiros foram utilizados.
 
 
