@@ -6,9 +6,9 @@
 dicionario1 = {} #Cria um dict vazio
 dicionario2 = {} #Cria um dict vazio
 dicionario3 = {} #Cria um dict vazio
-lista = [dicionario1,dicionario2,dicionario3]
-for j in lista:
-  i = 0
+lista = [dicionario1,dicionario2,dicionario3] #Cria uma lista de dicionários
+for j in lista: #Seleciona cada dicionário da lista
+  i = 0 #Zera o 1 para que quando voltar ao for, o while funcione novamente
   while i < 100: #Estrutura de repetição com grande valor para que mesmo se o número digitado for errado, a pessoa possa tentar outra vez sem perder o que já havia colocado. Retornando em então para o pedido por uma chave.
       try:
           key = int(input(f'\n-----Digite a chave do Dicionário {lista.index(j)+1} (Digite 0 para finalizar): '))
@@ -29,5 +29,6 @@ for j in lista:
           
 
 print(f'\nOs dicionários criados foram: {lista[0]},{lista[1]},{lista[2]}')
+#Realiza a concateção dos dicionários, a chave mais recente à ser adiciona tem prioridade
 concatenado = dicionario1 | dicionario2 | dicionario3
 print(f'\nA concatenação dos dicionários tem o seguinte resultado: {concatenado}.')
