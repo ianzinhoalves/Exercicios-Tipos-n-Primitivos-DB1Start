@@ -1,6 +1,6 @@
 # Aluno: Ian Alves Sousa
 # DB1 Start - Tipos não primitivos
-# Exercício 7 - Escreva um programa que concatene os dicionários abaixo e crie um novo. Exemplo dicionário(Dict): dic1={1:10, 2:20}, dic2={3:30, 4:40}, dic3={5:50,6:60}
+# Exercício 8 - Escreva um programa que concatene os dicionários abaixo e crie um novo. Exemplo dicionário(Dict): dic1={1:10, 2:20}, dic2={3:30, 4:40}, dic3={5:50,6:60}
 # Resultado esperado: {1: 10, 2: 20, 3: 30, 4: 40, 5: 50, 6: 60}
 
 dicionario1 = {} #Cria um dict vazio
