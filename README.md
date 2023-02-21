@@ -18,6 +18,37 @@ A ideia dos exercícios é a fixação do conteúdo no Phyton. Busquei realizá-
 
 Os Exercícios propostos foram:
 
+1 - Escreva um programa que some todos os itens de uma lista.
+
+2 - Escreva um programa que multiplique todos os itens de uma lista.
+
+3 - Escreva um programa que retorne o maior e o menor número de uma lista.
+
+4 - Escreva um programa que conte o número de caracteres de uma string 
+( Exemplo: 'google.com' Resultado Esperado: {'o': 3, 'g': 2, '.': 1, 'e': 1, 'l': 1, 'm': 1, 'c': 1} )
+
+5 - Escreva um programa que conte quantas string tenham tamanho maior que 2 e o primeiro e último caracteres sejam iguais.
+(Exemplo de lista: ['abc', 'xyz', 'aba', '1221'] Resultado esperado: 2 )
+
+6 - Escreva um programa que ordene em ordem crescente uma lista de tuplas informadas, pelo último item da tupla 
+(Exemplo de lista: [(2, 5), (1, 2), (4, 4), (2, 3), (2, 1)] Resultado esperado: [(2, 1), (1, 2), (2, 3), (4, 4), (2, 5)] )
+
+7 - Escreva um programa que adicione uma chave (key) a um dicionário. 
+(Exemplo dicionário(Dict): {0: 10, 1: 20} Resultado esperado: {0: 10, 1: 20, 2: 30} )
+
+8 - Escreva um programa que concatene os dicionários abaixo e crie um novo.
+Exemplo dicionário(Dict): dic1={1:10, 2:20} dic2={3:30, 4:40} dic3={5:50,6:60} - Resultado esperado: {1: 10, 2: 20, 3: 30, 4: 40, 5: 50, 6: 60}
+
+9 - Escreva um programa que leia chaves e valores, crie um dicionário, e depois, verifique se uma chave informada existe em um dicionário.
+
+10 - Escreva um programa que itere em um dicionário utilizando loops.
+
+11 - Escreva um programa que remova itens duplicados de uma lista.
+
+12 - Escreva um programa que verifique se uma lista está vazia ou não.
+
+13 - Escreva um programa que clone ou copie uma lista.
+
 Quando terminar a lista vou colocar a ordem que foi executado
 
 ## 🖇️ Colaborando
