@@ -8,7 +8,7 @@ Assim, os repositórios com o nome DB1 Start irão mostrar o meu desenvolvimento
 
 # Tipos não primitivos
 
-A segeunda aula do segundo módulo do programa ensina uma tratativa teórica do que são os Tipos não primiticos e como usar eles no Python. Assim, esse repositório mostra quais foram os exercícios propostos e a ordem dos mesmos.
+A segunda aula do segundo módulo do programa ensina uma tratativa teórica do que são os Tipos não primitivos e como usar eles no Python. Assim, esse repositório mostra quais foram os exercícios propostos e a ordem dos mesmos.
 
 Além disso, no repositório tem alguns arquivos com o nome Ava, eles foram testes para a avaliação proposta no módulo, da qual eu PROVAVELMENTE não tenho mais acesso a questão.
 
@@ -48,8 +48,6 @@ Exemplo dicionário(Dict): dic1={1:10, 2:20} dic2={3:30, 4:40} dic3={5:50,6:60} 
 12 - Escreva um programa que verifique se uma lista está vazia ou não.
 
 13 - Escreva um programa que clone ou copie uma lista.
-
-Quando terminar a lista vou colocar a ordem que foi executado
 
 ## 🖇️ Colaborando
 
